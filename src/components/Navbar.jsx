@@ -7,6 +7,7 @@ const navbar = () => {
         <div className='h-[80px] w-full bg-blue-500'>
 
         </div>
+        
     )
 }
 export default navbar;
